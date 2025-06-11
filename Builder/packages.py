@@ -17,7 +17,7 @@ BASE_PACKAGES = [
 ]
 
 DEV_PACKAGES = [
-    "cheese", "screenkey", "timeshift", "pinta", "kdenlive", "wireshark-qt",
+    "cheese", "screenkey", "timeshift", "pinta", "kdenlive", "qutebrowser",
     "filezilla", "ghex", "chromium", "keepassxc", "audacity", "gufw", "python-pywal",
     "bleachbit", "veracrypt", "homebank", "gtkhash", "gnome-firmware", "touche", "dconf-editor",
     "neovim", "obs-studio", "telegram-desktop", "tmux", "yt-dlp", "code", "cowsay",
