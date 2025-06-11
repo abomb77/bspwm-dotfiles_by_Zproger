@@ -20,12 +20,12 @@ DEV_PACKAGES = [
     "cheese", "screenkey", "timeshift", "pinta", "kdenlive", "qutebrowser",
     "filezilla", "ghex", "chromium", "keepassxc", "audacity", "gufw", "python-pywal",
     "bleachbit", "veracrypt", "homebank", "gtkhash", "gnome-firmware", "touche", "dconf-editor",
-    "neovim", "obs-studio", "telegram-desktop", "tmux", "yt-dlp", "code", "nnn",
+    "neovim", "obs-studio", "telegram-desktop", "tmux", "yt-dlp", "code", "nnn", "cava",
     "deluge-gtk", "sqlitebrowser", "obsidian", "python-pip", "bpython", "ipython", "cloc"
 ]
 
 AUR_PACKAGES = [
-    "cava", "i3lock-color", "ptpython"
+    "i3lock-color", "ptpython"
 ]
 
 GNOME_OFFICIAL_TOOLS = [
