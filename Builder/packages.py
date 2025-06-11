@@ -10,8 +10,8 @@ BASE_PACKAGES = [
     "rofi-emoji", "scrot", "sudo", "flameshot", "tree", "unrar", "zip", "unzip", "uthash", "xarchiver",
     "xfce4-power-manager", "xfce4-settings", "xorg-xbacklight", "zathura", "zathura-djvu", "zathura-pdf-mupdf",
     "cmake", "clang", "gzip", "imagemagick", "make", "openssh", "pulseaudio-bluetooth", "shellcheck",
-    "vlc", "usbutils", "picom", "networkmanager-openvpn", "alsa-plugins", "alsa-tools", "alsa-utils", "ffmpeg",
-    "p7zip", "gparted", "sshfs", "openvpn", "xclip", "gpick", "wget", "ueberzug", "netctl", "light", "libreoffice",
+    "vlc", "usbutils", "picom", "alsa-plugins", "alsa-tools", "alsa-utils", "ffmpeg",
+    "p7zip", "gparted", "sshfs", "xclip", "gpick", "wget", "ueberzug", "netctl", "light", "libreoffice",
     "breeze", "vulkan-intel", "intel-ucode", "ttf-jetbrains-mono", "ttf-jetbrains-mono-nerd", "ttf-fira-code",
     "ttf-iosevka-nerd"
 ]
